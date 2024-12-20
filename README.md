@@ -4,9 +4,21 @@
 <h2 align="left">💾 About Me:</h2>
   <p>🌟 "Code by day, explore by night."
 
-I’m a Full-Stack Developer who builds web applications using React, Next.js, and backend technologies. I also work with cloud computing, DevOps, and databases to make my solutions scalable and efficient. 🚀
+🚀 Machine Learning Engineer | Data Scientist | Software Developer
 
-When not coding, I enjoy learning, collaborating with others, and exploring how technology can create better user experiences. Let's build something amazing together! 🌌</p>
+🔍 Passionate about solving real-world problems through data and AI.
+With experience in machine learning, Python, and deep learning frameworks like TensorFlow and Keras, I specialize in creating innovative solutions for complex challenges.
+
+🌟 What I do:
+
+Build robust machine learning models for predictive analysis
+Explore cutting-edge AI techniques for image and text-based applications
+Develop scalable and efficient software solutions
+📂 Projects:
+
+🌌 Eyeonic: A comprehensive model for detecting ocular conditions from retinal images.
+🖼️ Image Captioning: Generating meaningful captions for images using CNNs and LSTMs.
+🎨 Text-to-Image Conversion: Bridging the gap between text and visuals with AI.</p>
 <hr>
 <h2>🛠️ My Skills Toolbox:</h2>
  <p>💡 Technologies & Tools:</p>
