@@ -17,7 +17,9 @@ Develop scalable and efficient software solutions
 📂 Projects:
 
 🌌 Eyeonic: A comprehensive model for detecting ocular conditions from retinal images.
+
 🖼️ Image Captioning: Generating meaningful captions for images using CNNs and LSTMs.
+
 🎨 Text-to-Image Conversion: Bridging the gap between text and visuals with AI.</p>
 <hr>
 <h2>🛠️ My Skills Toolbox:</h2>
